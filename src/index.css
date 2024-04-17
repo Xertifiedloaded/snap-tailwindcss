@@ -9,6 +9,7 @@
 }
 body{
   color: black;
+  z-index: 100;
   font-family: "Poppins", sans-serif;
 }
 
